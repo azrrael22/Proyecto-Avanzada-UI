@@ -1,0 +1,55 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist
+tmp
+out-tsc
+bazel-out
+
+# IDE files
+.idea
+.vscode
+.project
+.classpath
+.c9
+*.launch
+.settings
+*.sublime-workspace
+.history
+
+# Angular cache
+.angular/cache
+.sass-cache
+
+# Testing
+coverage
+.nyc_output
+*.log
+
+# Environment files (optional - comment out if you want to include them)
+# .env
+# .env.*
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Documentation
+README.md
+*.md
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+testem.log
+typings
+__screenshots__
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
